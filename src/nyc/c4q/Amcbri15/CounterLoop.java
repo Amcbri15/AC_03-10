@@ -2,6 +2,7 @@ package nyc.c4q.Amcbri15;
 import java.util.Scanner;
 /**
  * Created by c4q-anthony-mcbride on 3/10/15.
+ *
  */
 public class CounterLoop {
     public static void main(String[] args){
